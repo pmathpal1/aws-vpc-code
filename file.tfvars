@@ -1,6 +1,6 @@
 region = "ap-south-1"
-access_key = "AKIAWEZ7WFDXDZTA555F"
-secret_key = "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"
+access_key = "Aceess_keys"
+secret_key = "Secrets_Keys"
 vnet = [
     {name = "pvt-vnet",cidr_block = "10.0.0.0/16"},
     {name = "pub-vnet",cidr_block = "20.0.0.0/16"},
